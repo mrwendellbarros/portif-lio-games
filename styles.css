@@ -1,0 +1,12 @@
+body {
+  background-image: url(https://user-images.githubusercontent.com/102330689/190880775-d0030aa7-187b-4bb3-bda0-29bf80f38b73.jpg);
+  background-position: top center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-color: #121214;
+}
+
+main {
+  max-width: 580px;
+  width: 90%;
+}
